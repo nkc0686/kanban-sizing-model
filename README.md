@@ -79,5 +79,6 @@ It is not intended to replace an ERP system, but to clarify how such systems ope
 
 ## License
 
-This project is provided for demonstration and learning purposes.
+This project is provided for demonstration and learning purposes only and carries no warranty or guarantee of fitness for operational use.
+
 
