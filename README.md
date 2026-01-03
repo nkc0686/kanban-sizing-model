@@ -73,8 +73,8 @@ This model is intended for:
 - Explaining replenishment logic
 - Supporting inventory planning discussions
 
-It is not intended to replace an ERP system, but to clarify how such systems operate under the hood.
-Most ERP systems do all this for you.
+It is not intended to replace an ERP system, but to clarify how such systems operate under the hood. Most ERP systems implement this logic internally, but do not always make it visible or easy to validate.
+
 ---
 
 ## License
