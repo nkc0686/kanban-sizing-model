@@ -74,7 +74,7 @@ This model is intended for:
 - Supporting inventory planning discussions
 
 It is not intended to replace an ERP system, but to clarify how such systems operate under the hood.
-
+Most ERP systems do all this for you.
 ---
 
 ## License
